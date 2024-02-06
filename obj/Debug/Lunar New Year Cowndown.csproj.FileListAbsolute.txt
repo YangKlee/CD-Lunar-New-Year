@@ -1,0 +1,20 @@
+D:\Lunar New Year Cowndown\Lunar New Year Cowndown\bin\Debug\Lunar New Year Cowndown.exe.config
+D:\Lunar New Year Cowndown\Lunar New Year Cowndown\bin\Debug\Lunar New Year Cowndown.exe
+D:\Lunar New Year Cowndown\Lunar New Year Cowndown\bin\Debug\Lunar New Year Cowndown.pdb
+D:\Lunar New Year Cowndown\Lunar New Year Cowndown\obj\Debug\Lunar New Year Cowndown.csproj.AssemblyReference.cache
+D:\Lunar New Year Cowndown\Lunar New Year Cowndown\obj\Debug\Lunar_New_Year_Cowndown.Properties.Resources.resources
+D:\Lunar New Year Cowndown\Lunar New Year Cowndown\obj\Debug\Lunar New Year Cowndown.csproj.GenerateResource.cache
+D:\Lunar New Year Cowndown\Lunar New Year Cowndown\obj\Debug\Lunar New Year Cowndown.csproj.CoreCompileInputs.cache
+D:\Lunar New Year Cowndown\Lunar New Year Cowndown\obj\Debug\Lunar New Year Cowndown.exe
+D:\Lunar New Year Cowndown\Lunar New Year Cowndown\obj\Debug\Lunar New Year Cowndown.pdb
+D:\Lunar New Year Cowndown\Lunar New Year Cowndown\obj\Debug\Lunar_New_Year_Cowndown.main.resources
+D:\Lunar New Year Cowndown\Lunar New Year Cowndown\bin\Debug\Interop.WMPLib.dll
+D:\Lunar New Year Cowndown\Lunar New Year Cowndown\bin\Debug\AxInterop.WMPLib.dll
+D:\Lunar New Year Cowndown\Lunar New Year Cowndown\obj\Debug\Interop.WMPLib.dll
+D:\Lunar New Year Cowndown\Lunar New Year Cowndown\obj\Debug\AxInterop.WMPLib.dll
+D:\Lunar New Year Cowndown\Lunar New Year Cowndown\obj\Debug\Lunar New Year Cowndown.csproj.ResolveComReference.cache
+D:\Lunar New Year Cowndown\Lunar New Year Cowndown\obj\Debug\Lunar_New_Year_Cowndown.Form2.resources
+D:\Lunar New Year Cowndown\Lunar New Year Cowndown\bin\Debug\Lunar New Year Cowndown.exe.manifest
+D:\Lunar New Year Cowndown\Lunar New Year Cowndown\bin\Debug\Lunar New Year Cowndown.application
+D:\Lunar New Year Cowndown\Lunar New Year Cowndown\obj\Debug\Lunar New Year Cowndown.exe.manifest
+D:\Lunar New Year Cowndown\Lunar New Year Cowndown\obj\Debug\Lunar New Year Cowndown.application
